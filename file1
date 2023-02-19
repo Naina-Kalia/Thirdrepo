@@ -3,4 +3,6 @@ User needs to put valid user name.
 user needs to put valid password mixture of alphabets and string.
 User should navigate to the application.
 User should put valid captcha before clicking on the login field
-
+After submiting to the login field user should put valid order details in PO and TO button field.
+And enter
+Aftersubmitting the order setails user should navigate to the workflow of the Orders.
